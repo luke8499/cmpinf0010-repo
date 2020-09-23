@@ -1,2 +1,4 @@
 # week-6-lab
-cmpinf0010
+Names: Luke Williams, 
+
+Our program is...
