@@ -1,4 +1,4 @@
 # week-6-lab
-Names: Luke Williams, 
+Names: Tate Kline, Luke Williams
 
 Our program is...
