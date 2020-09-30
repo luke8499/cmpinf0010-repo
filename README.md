@@ -10,6 +10,7 @@ To install, first open a terminal in JupyterLab. Then use the command git clone 
 
 # Usage
 '''
+
 name = input("What is your name? ") #Takes the user's name as the first input
 
 repeat = True
