@@ -1,6 +1,6 @@
 # cmpinf0010-repo
 
-Our program takes the user's name as input. Then, the user can type in another input and our program will repeat the user's name and the 2nd input that was entered.
+Our program takes the user's name as input. Then, the user can type in another input and our program will repeat the user's name and the second input.
 
 # Authors
 Tate Kline, Luke Williams
