@@ -1,4 +1,4 @@
-# cmpinf0010-repo
+# Copycat
 
 Our program takes the user's name as input. Then, the user can type in another input and our program will repeat the user's name and the second input.
 
