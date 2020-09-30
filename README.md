@@ -28,4 +28,4 @@ This program uses the Contributor Covenant Code of Conduct. We chose this code o
 
 
 ## License
-This program uses Unilicense. For more information, click [here](https://unlicense.org/). We chose this license because...
+This program uses Unilicense. For more information, click [here](https://unlicense.org/). We chose this license because we think that our software should be public domain and accessible by anyone, and Unilicense allows for the modification and monitization of software without encumberment.
